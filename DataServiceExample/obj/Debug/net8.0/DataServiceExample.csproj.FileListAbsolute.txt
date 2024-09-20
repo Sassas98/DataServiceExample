@@ -1,0 +1,12 @@
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.csproj.AssemblyReference.cache
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.AssemblyInfoInputs.cache
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.AssemblyInfo.cs
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.csproj.CoreCompileInputs.cache
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\bin\Debug\net8.0\DataServiceExample.deps.json
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\bin\Debug\net8.0\DataServiceExample.dll
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\bin\Debug\net8.0\DataServiceExample.pdb
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.dll
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\refint\DataServiceExample.dll
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.pdb
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\ref\DataServiceExample.dll

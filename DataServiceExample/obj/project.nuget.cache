@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPYko9ZG7RQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\DataServiceExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15mim\\.nuget\\packages\\magicdatabase\\2.1.4\\magicdatabase.2.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

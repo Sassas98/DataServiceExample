@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataServiceExample/1.0.0": {
+        "dependencies": {
+          "MagicDatabase": "2.1.4"
+        },
+        "runtime": {
+          "DataServiceExample.dll": {}
+        }
+      },
+      "MagicDatabase/2.1.4": {
+        "runtime": {
+          "lib/net8.0/MagicDatabase.dll": {
+            "assemblyVersion": "2.1.4.0",
+            "fileVersion": "2.1.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataServiceExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MagicDatabase/2.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lSau06nr52vGc6FR89znnmXXd1abDkR4sOs/7+Q3jHXewU+fk3WLlmeE8w7knde7GXluyJXTiFXOQFbdk72e8Q==",
+      "path": "magicdatabase/2.1.4",
+      "hashPath": "magicdatabase.2.1.4.nupkg.sha512"
+    }
+  }
+}
