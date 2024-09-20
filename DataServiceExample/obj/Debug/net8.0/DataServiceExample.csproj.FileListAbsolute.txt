@@ -10,3 +10,4 @@ C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\refint\DataServiceExample.dll
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.pdb
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\ref\DataServiceExample.dll
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExample\obj\Debug\net8.0\DataServiceExample.sourcelink.json

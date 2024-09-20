@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\services\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\services\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C665F6C-0070-41CD-B3AF-384CA16DBE1A}|DataServiceExampleTests\\DataServiceExampleTests.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexampletests\\services\\schoolservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C665F6C-0070-41CD-B3AF-384CA16DBE1A}|DataServiceExampleTests\\DataServiceExampleTests.csproj|solutionrelative:dataserviceexampletests\\services\\schoolservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\services\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\services\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Class.cs",
               "RelativeDocumentMoniker": "DataServiceExample\\Models\\Class.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "DataServiceExample\\Models\\Exam.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Iscription.cs",
               "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Iscription.cs",
               "RelativeDocumentMoniker": "DataServiceExample\\Models\\Iscription.cs",
@@ -87,7 +87,7 @@
               "RelativeDocumentMoniker": "DataServiceExample\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Student.cs",
               "RelativeToolTip": "DataServiceExample\\Models\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T20:22:20.878Z",
               "EditorCaption": ""
@@ -107,26 +107,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SchoolService.cs",
               "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Services\\SchoolService.cs",
               "RelativeDocumentMoniker": "DataServiceExample\\Services\\SchoolService.cs",
               "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Services\\SchoolService.cs",
               "RelativeToolTip": "DataServiceExample\\Services\\SchoolService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA9wA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T19:33:31.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SchoolServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
               "RelativeDocumentMoniker": "DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
               "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
               "RelativeToolTip": "DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwHEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T19:31:35.39Z",
               "EditorCaption": ""

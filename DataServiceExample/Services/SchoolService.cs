@@ -22,6 +22,10 @@ namespace DataServiceExample.Services
             SpellBook.BindMysticalBond<Class, Iscription>();
             SpellBook.BindMysticalBond<Student, Iscription>();
             SpellBook.BindTwinBond<Iscription, Exam>();
+            SpellBook.AddBookIndex<School>(s => s.Name);
+            SpellBook.AddBookIndex<Student>(s => s.SerialKey + "_" + s.SchoolId);
+            SpellBook.AddBookIndex<Class>(s => s.Name + "_" + s.SchoolId);
+            SpellBook.AddBookIndex<Iscription>(s => s.StudentId + "_" + s.ClassId);
         }
 
         public static SchoolService NewInstance()

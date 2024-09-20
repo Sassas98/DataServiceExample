@@ -113,3 +113,4 @@ C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExampleTests\obj\D
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExampleTests\obj\Debug\net8.0\DataServiceExampleTests.pdb
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExampleTests\obj\Debug\net8.0\DataServiceExampleTests.genruntimeconfig.cache
 C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExampleTests\obj\Debug\net8.0\ref\DataServiceExampleTests.dll
+C:\Users\15mim\Documents\GitHub\DataServiceExample\DataServiceExampleTests\obj\Debug\net8.0\DataServiceExampleTests.sourcelink.json

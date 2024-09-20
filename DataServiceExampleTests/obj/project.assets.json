@@ -8,7 +8,7 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
-      "MagicDatabase/2.1.4": {
+      "MagicDatabase/2.2.0": {
         "type": "package",
         "compile": {
           "lib/net8.0/MagicDatabase.dll": {}
@@ -403,7 +403,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "MagicDatabase": "2.1.4"
+          "MagicDatabase": "2.2.0"
         },
         "compile": {
           "bin/placeholder/DataServiceExample.dll": {}
@@ -468,17 +468,17 @@
         "coverlet.collector.nuspec"
       ]
     },
-    "MagicDatabase/2.1.4": {
-      "sha512": "lSau06nr52vGc6FR89znnmXXd1abDkR4sOs/7+Q3jHXewU+fk3WLlmeE8w7knde7GXluyJXTiFXOQFbdk72e8Q==",
+    "MagicDatabase/2.2.0": {
+      "sha512": "ndWQxzmGyZDD0KV1fbrHqgXL42TmfUH+fZTe6FCHlEo2zdQNytaSJZ6GWQZb7HlQByn7O58g35HTVjHv/FM94A==",
       "type": "package",
-      "path": "magicdatabase/2.1.4",
+      "path": "magicdatabase/2.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "README.md",
         "lib/net8.0/MagicDatabase.dll",
-        "magicdatabase.2.1.4.nupkg.sha512",
+        "magicdatabase.2.2.0.nupkg.sha512",
         "magicdatabase.nuspec"
       ]
     },
