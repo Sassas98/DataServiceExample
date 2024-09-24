@@ -55,14 +55,14 @@ namespace DataServiceExample.Services
             var school = SpellBook.GetOne<School>(x => x.Name == nameOfSchool);
             if (school == null || school.Students.Unroll().Any(x => x.SerialKey == serialKey))
                 return false;
-            SpellBook.SaveOne(new Student
+            new Student
             {
                 Name = name,
                 Surname = surname,
                 SerialKey = serialKey,
                 Age = age,
                 SchoolId = school.Id
-            });
+            }.Forge();
             return true;
         }
 
@@ -75,7 +75,7 @@ namespace DataServiceExample.Services
             if (student == null)
                 return false;
             SpellBook.DestroyMany(student.Iscriptions.Unroll());
-            SpellBook.DestroyOne(student);
+            student.Break();
             return true;
         }
 

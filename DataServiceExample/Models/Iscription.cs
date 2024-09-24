@@ -8,12 +8,12 @@ namespace DataServiceExample.Models
         public ulong Id { get; set; }
         [BondKey(typeof(Student))]
         public ulong StudentId { get; set; }
-        public Scroll<Student> Student { get; set; } = new Scroll<Student>();
+        public Scroll<Student> Student { get; set; }
         [BondKey(typeof(Class))]
         public ulong ClassId { get; set; }
-        public Scroll<Class> Class { get; set; } = new Scroll<Class>();
+        public Scroll<Class> Class { get; set; }
         [BondKey(typeof(Exam))]
         public ulong? ExamId { get; set; }
-        public Scroll<Exam> Exam { get; set; } = new Scroll<Exam>();
+        public Scroll<Exam> Exam { get; set; }
     }
 }

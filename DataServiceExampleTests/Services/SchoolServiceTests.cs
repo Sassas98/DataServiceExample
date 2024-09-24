@@ -107,9 +107,8 @@ namespace DataServiceExample.Services.Tests
             var inscription = student.Iscriptions.Unroll().Single();
             var test = inscription.Exam.Unroll();
             Assert.IsTrue(inscription.Exam.Unroll() == null);
-            service.TakeTheExam(inscription, 31); 
-            student = service.GetStudent("123456", "high-school-test");
-            inscription = student.Iscriptions.Unroll().Single();
+            service.TakeTheExam(inscription, 31);
+            inscription = student.Restore().Iscriptions.Unroll().Single();
             Assert.IsTrue(inscription.Exam.Unroll() != null);
             Assert.IsTrue(inscription.Exam.Unroll().Vote == 31);
         }

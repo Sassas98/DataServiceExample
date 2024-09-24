@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Qi6k5phuBMw=",
+  "dgSpecHash": "ATYtLKbGsLw=",
   "success": true,
   "projectFilePath": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExampleTests\\DataServiceExampleTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15mim\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
-    "C:\\Users\\15mim\\.nuget\\packages\\magicdatabase\\2.2.0\\magicdatabase.2.2.0.nupkg.sha512",
+    "C:\\Users\\15mim\\.nuget\\packages\\magicdatabase\\2.3.0\\magicdatabase.2.3.0.nupkg.sha512",
     "C:\\Users\\15mim\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\15mim\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\15mim\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",

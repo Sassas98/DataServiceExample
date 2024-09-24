@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "MagicDatabase/2.2.0": {
+      "MagicDatabase/2.3.0": {
         "type": "package",
         "compile": {
           "lib/net8.0/MagicDatabase.dll": {}
@@ -14,24 +14,24 @@
     }
   },
   "libraries": {
-    "MagicDatabase/2.2.0": {
-      "sha512": "ndWQxzmGyZDD0KV1fbrHqgXL42TmfUH+fZTe6FCHlEo2zdQNytaSJZ6GWQZb7HlQByn7O58g35HTVjHv/FM94A==",
+    "MagicDatabase/2.3.0": {
+      "sha512": "c0TqnDbw1l3clhZOMBWgZm55LIioExQxarFWWyquTZxeN4sDiPqqncxJEZBVso/D/ye/lkClG0OK3K7gCU6Ilw==",
       "type": "package",
-      "path": "magicdatabase/2.2.0",
+      "path": "magicdatabase/2.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "README.md",
         "lib/net8.0/MagicDatabase.dll",
-        "magicdatabase.2.2.0.nupkg.sha512",
+        "magicdatabase.2.3.0.nupkg.sha512",
         "magicdatabase.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MagicDatabase >= 2.2.0"
+      "MagicDatabase >= 2.3.0"
     ]
   },
   "packageFolders": {
@@ -81,7 +81,7 @@
         "dependencies": {
           "MagicDatabase": {
             "target": "Package",
-            "version": "[2.2.0, )"
+            "version": "[2.3.0, )"
           }
         },
         "imports": [

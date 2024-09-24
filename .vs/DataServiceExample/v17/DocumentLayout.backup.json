@@ -11,24 +11,24 @@
       "RelativeMoniker": "D:0:0:{6C665F6C-0070-41CD-B3AF-384CA16DBE1A}|DataServiceExampleTests\\DataServiceExampleTests.csproj|solutionrelative:dataserviceexampletests\\services\\schoolservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\iscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\iscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\iscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\iscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|c:\\users\\15mim\\documents\\github\\dataserviceexample\\dataserviceexample\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D303FE-FB03-4B9E-B0BF-829F771254C9}|DataServiceExample\\DataServiceExample.csproj|solutionrelative:dataserviceexample\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,73 +38,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Class.cs",
-              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Class.cs",
-              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Class.cs",
-              "RelativeToolTip": "DataServiceExample\\Models\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:22:38.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exam.cs",
-              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Exam.cs",
-              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Exam.cs",
-              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Exam.cs",
-              "RelativeToolTip": "DataServiceExample\\Models\\Exam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:22:35.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Iscription.cs",
-              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Iscription.cs",
-              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Iscription.cs",
-              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Iscription.cs",
-              "RelativeToolTip": "DataServiceExample\\Models\\Iscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:22:27.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Student.cs",
-              "RelativeToolTip": "DataServiceExample\\Models\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:22:20.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "School.cs",
-              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\School.cs",
-              "RelativeDocumentMoniker": "DataServiceExample\\Models\\School.cs",
-              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\School.cs",
-              "RelativeToolTip": "DataServiceExample\\Models\\School.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:21:54.574Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -113,9 +48,9 @@
               "RelativeDocumentMoniker": "DataServiceExample\\Services\\SchoolService.cs",
               "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Services\\SchoolService.cs",
               "RelativeToolTip": "DataServiceExample\\Services\\SchoolService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:33:31.91Z",
+              "WhenOpened": "2024-09-24T20:41:43.145Z",
               "EditorCaption": ""
             },
             {
@@ -126,9 +61,74 @@
               "RelativeDocumentMoniker": "DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
               "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
               "RelativeToolTip": "DataServiceExampleTests\\Services\\SchoolServiceTests.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAwHEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:31:35.39Z",
+              "WhenOpened": "2024-09-24T20:40:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Class.cs",
+              "RelativeToolTip": "DataServiceExample\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:39:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Exam.cs",
+              "RelativeToolTip": "DataServiceExample\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:39:51.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Iscription.cs",
+              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Iscription.cs",
+              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Iscription.cs",
+              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Iscription.cs",
+              "RelativeToolTip": "DataServiceExample\\Models\\Iscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:39:41.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\School.cs",
+              "RelativeDocumentMoniker": "DataServiceExample\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\School.cs",
+              "RelativeToolTip": "DataServiceExample\\Models\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:39:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DataServiceExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\15mim\\Documents\\GitHub\\DataServiceExample\\DataServiceExample\\Models\\Student.cs",
+              "RelativeToolTip": "DataServiceExample\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:38:49.407Z",
               "EditorCaption": ""
             }
           ]

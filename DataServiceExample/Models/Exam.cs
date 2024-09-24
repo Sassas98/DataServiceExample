@@ -9,6 +9,6 @@ namespace DataServiceExample.Models
         public int Vote { get; set; }
         [BondKey(typeof(Iscription))]
         public ulong IscriptionId { get; set; }
-        public Scroll<Iscription> Iscription { get; set; } = new Scroll<Iscription>();
+        public Scroll<Iscription> Iscription { get; set; }
     }
 }

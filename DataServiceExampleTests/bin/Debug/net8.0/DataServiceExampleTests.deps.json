@@ -20,11 +20,11 @@
         }
       },
       "coverlet.collector/6.0.0": {},
-      "MagicDatabase/2.2.0": {
+      "MagicDatabase/2.3.0": {
         "runtime": {
           "lib/net8.0/MagicDatabase.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.0"
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
           }
         }
       },
@@ -358,7 +358,7 @@
       "System.Reflection.Metadata/1.6.0": {},
       "DataServiceExample/1.0.0": {
         "dependencies": {
-          "MagicDatabase": "2.2.0"
+          "MagicDatabase": "2.3.0"
         },
         "runtime": {
           "DataServiceExample.dll": {
@@ -390,12 +390,12 @@
       "path": "coverlet.collector/6.0.0",
       "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
     },
-    "MagicDatabase/2.2.0": {
+    "MagicDatabase/2.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ndWQxzmGyZDD0KV1fbrHqgXL42TmfUH+fZTe6FCHlEo2zdQNytaSJZ6GWQZb7HlQByn7O58g35HTVjHv/FM94A==",
-      "path": "magicdatabase/2.2.0",
-      "hashPath": "magicdatabase.2.2.0.nupkg.sha512"
+      "sha512": "sha512-c0TqnDbw1l3clhZOMBWgZm55LIioExQxarFWWyquTZxeN4sDiPqqncxJEZBVso/D/ye/lkClG0OK3K7gCU6Ilw==",
+      "path": "magicdatabase/2.3.0",
+      "hashPath": "magicdatabase.2.3.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.8.0": {
       "type": "package",
