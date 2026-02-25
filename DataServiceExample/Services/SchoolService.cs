@@ -15,8 +15,13 @@ namespace DataServiceExample.Services
 
         private SchoolService()
         {
-            if(!SpellBook.IsAlreadytInitialized)
-                SpellBook.InitiationToArcane("Example", true, false, true);
+            if(!SpellBook.IsAlreadyInitialized)
+                SpellBook.InitiationToArcane(new InitiationToArcaneOptions
+                {
+                    DatabaseName = "Example",
+                    EnableRestoreOrigin = true,
+                    LoggedMagic = true,
+                });
             SpellBook.BindMysticalBond<School, Class>();
             SpellBook.BindMysticalBond<School, Student>();
             SpellBook.BindMysticalBond<Class, Iscription>();
